@@ -1,4 +1,5 @@
 # :wave: The Basics of GitHub 
+# :wave: Mishell Merchan Cardoza - Arquitectura de computadores 
 
 ## 🤓 Course overview and learning outcomes 
 
